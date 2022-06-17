@@ -1,0 +1,12 @@
+{
+  "name": "@pantry-door/client",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "dist/index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
